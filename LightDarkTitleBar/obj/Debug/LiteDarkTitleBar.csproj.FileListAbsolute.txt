@@ -1,0 +1,7 @@
+N:\Visual Studio Repos\SomeCSharpCodes\ToDarkTitleBar\bin\Debug\ToDarkTitleBar.exe.config
+N:\Visual Studio Repos\SomeCSharpCodes\ToDarkTitleBar\bin\Debug\ToDarkTitleBar.exe
+N:\Visual Studio Repos\SomeCSharpCodes\ToDarkTitleBar\bin\Debug\ToDarkTitleBar.pdb
+N:\Visual Studio Repos\SomeCSharpCodes\ToDarkTitleBar\obj\Debug\LiteDarkTitleBar.csproj.AssemblyReference.cache
+N:\Visual Studio Repos\SomeCSharpCodes\ToDarkTitleBar\obj\Debug\LiteDarkTitleBar.csproj.CoreCompileInputs.cache
+N:\Visual Studio Repos\SomeCSharpCodes\ToDarkTitleBar\obj\Debug\ToDarkTitleBar.exe
+N:\Visual Studio Repos\SomeCSharpCodes\ToDarkTitleBar\obj\Debug\ToDarkTitleBar.pdb

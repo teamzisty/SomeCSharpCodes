@@ -9,6 +9,10 @@ namespace ToDarkTitleBar
         [DllImport("dwmapi.dll", CharSet = CharSet.Unicode, SetLastError = true)]
         private static extern int DwmSetWindowAttribute(IntPtr hwnd, DWMWINDOWATTRIBUTE attribute, ref int pvAttribute, uint cbAttribute);
 
+        /// <summary>
+        /// Change To Light TitleBar
+        /// </summary>
+        /// <param name="form">Target Form</param>
         public static void Change(Form form)
         {
             int value = 0;
