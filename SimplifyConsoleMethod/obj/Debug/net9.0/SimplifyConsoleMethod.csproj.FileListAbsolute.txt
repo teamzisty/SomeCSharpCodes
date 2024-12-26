@@ -1,0 +1,2 @@
+N:\SourceOnNas\repos\SomeCSharpCodes\SimplifyConsoleMethod\obj\Debug\net9.0\SimplifyConsoleMethod.GeneratedMSBuildEditorConfig.editorconfig
+N:\SourceOnNas\repos\SomeCSharpCodes\SimplifyConsoleMethod\obj\Debug\net9.0\SimplifyConsoleMethod.csproj.CoreCompileInputs.cache

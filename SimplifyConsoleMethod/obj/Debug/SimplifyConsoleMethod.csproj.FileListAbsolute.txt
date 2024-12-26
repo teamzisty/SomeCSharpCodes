@@ -1,0 +1,2 @@
+N:\SourceOnNas\repos\SomeCSharpCodes\SimplifyConsoleMethod\obj\Debug\SimplifyConsoleMethod.csproj.AssemblyReference.cache
+N:\SourceOnNas\repos\SomeCSharpCodes\SimplifyConsoleMethod\obj\Debug\SimplifyConsoleMethod.csproj.CoreCompileInputs.cache
